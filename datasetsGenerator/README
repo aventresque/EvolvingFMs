@@ -1,0 +1,20 @@
+## Description
+This program generates a *valid* Feature Model (FM) that is different from the original one with the given percentage of features and constraints.
+
+The program adds and removes the features and constraints and ensures that the resulting FM has at least one satisfactoy selection.
+
+## USAGE 
+
+* arg 1: *percentage of features* that will be added/removed (e.g., if the FM has 5000 features, then 10% of modification means that a total of 500 features will either be added or removed).
+
+* arg 2: *percentage of constraints* that will be added/removed (e.g., if the FM has 100000 constraints, then 10% modification means that a total of 10000 constraints will either be added or remove).
+
+* arg 3: *number of new feature models* you want to be created.
+
+* Important : argument 3 does not take into account the number of modified constraints (e.g., if you remove a constraint, you might remove some feature entirely).
+ 
+## NOTE
+* original FM, mandatory features, dead features, augment and results should be in the directory "../Feature_Model_Generator/ressources/original".
+ 
+* The name of the FM is in FM_Name var in the main class.
+ 
