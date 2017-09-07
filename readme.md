@@ -1,4 +1,4 @@
-# A benchmark for feature selection when feature models evolve
+# A Benchmark for Feature Selection when Feature Models Evolve
 
 
 ## Synopsis
@@ -38,12 +38,6 @@ The paper is [available here for download](https://www.researchgate.net/publicat
 * datasetsGenerator: contains the java source code for the generation of evolved feature model from a given original on and a distance target (i.e., percentage of modified features and percentrage of modified constraints). See the README inside the folder for more details.
 * dataset: the original and evolved datasets used in the paper. See the README file inside the folder for more details.
 * Additional: the state-of-the-art algorithm *SATIBEA* [publicly available here](http://research.henard.net/SPL/ICSE_2015/).
-
-
-
-
-
-
 
 ## Contributors
 
