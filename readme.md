@@ -74,5 +74,5 @@ Lero@UCD, School of Computer Science, University College Dublin, Dublin 4, Irela
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+The project is licensed under the LGPL license.
 
