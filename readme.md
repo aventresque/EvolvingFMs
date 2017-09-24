@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-We describe in this this project the first benchmark of large scale *evolving* FMs, consisting of 5 popular Feature Models (FMs) i.e., Linux Kernel, FreeBSD, eCos, Fiasco and uClinux and their evolutions – synthetically generated following an experimental study of FM evolution.
+We describe in this project the first benchmark of large scale *evolving* FMs, consisting of 5 popular Feature Models (FMs) i.e., Linux Kernel, FreeBSD, eCos, Fiasco and uClinux and their evolutions – synthetically generated following an experimental study of FM evolution.
 
 ## Keywords
 
