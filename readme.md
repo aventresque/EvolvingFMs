@@ -21,18 +21,11 @@ While *change* and *evolution* of software systems is the common case in the ind
 
 This project contains the material described and used in the paper:
 
-**Title:** Is seeding a good strategy in multi-objective feature selection when feature models evolve?
-
-**Journal:** Information and Software Technology
-
-**Publisher:** Elsevier
-
-**DOI:** [10.1016/j.infsof.2017.08.010](https://doi.org/10.1016/j.infsof.2017.08.010)
-
-The paper is [available here for download](https://www.researchgate.net/publication/319401082_Is_seeding_a_good_strategy_in_multi-objective_feature_selection_when_feature_models_evolve)
+* Takfarinas Saber, David Brevet, Goetz Botterweck and Anthony Ventresque. 2017. “[http://www.sciencedirect.com/science/article/pii/S0950584916304724[(Is Seeding a Good Strategy in Multi-objective Features Selection When Feature Models Evolve?)” Information and Software Technology.
+* David Brevet, Takfarinas Saber, Goetz Botterweck and Anthony Ventresque. 2016. “[https://link.springer.com/chapter/10.1007/978-3-319-47106-8_23](Preliminary Study of Multi-objective Features Selection for Evolving Software Product Lines)”. International Symposium on Search Based Software Engineering 274–280. 
 
 
-## Contains
+## Content
 
 * paper: the forlder which contains the published paper.
 * datasetsGenerator: contains the java source code for the generation of evolved feature model from a given original on and a distance target (i.e., percentage of modified features and percentrage of modified constraints). See the README inside the folder for more details.
@@ -70,6 +63,16 @@ Lero@UCD, School of Computer Science, University College Dublin, Dublin 4, Irela
   year={2017},
   publisher={Elsevier}
 }
+
+@inproceedings{brevet2016preliminary,
+  title={Preliminary Study of Multi-objective Features Selection for Evolving Software Product Lines},
+  author={Brevet, David and Saber, Takfarinas and Botterweck, Goetz and Ventresque, Anthony},
+  booktitle={International Symposium on Search Based Software Engineering},
+  pages={274--280},
+  year={2016},
+  organization={Springer}
+}
+
 ```
 
 ## License
