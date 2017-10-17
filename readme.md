@@ -21,8 +21,8 @@ While *change* and *evolution* of software systems is the common case in the ind
 
 This project contains the material described and used in the paper:
 
-* Takfarinas Saber, David Brevet, Goetz Botterweck and Anthony Ventresque. 2017. “[http://www.sciencedirect.com/science/article/pii/S0950584916304724[(Is Seeding a Good Strategy in Multi-objective Features Selection When Feature Models Evolve?)” Information and Software Technology.
-* David Brevet, Takfarinas Saber, Goetz Botterweck and Anthony Ventresque. 2016. “[https://link.springer.com/chapter/10.1007/978-3-319-47106-8_23](Preliminary Study of Multi-objective Features Selection for Evolving Software Product Lines)”. International Symposium on Search Based Software Engineering 274–280. 
+* Takfarinas Saber, David Brevet, Goetz Botterweck and Anthony Ventresque. 2017. “[http://www.sciencedirect.com/science/article/pii/S0950584916304724](Is Seeding a Good Strategy in Multi-objective Features Selection When Feature Models Evolve?)” Information and Software Technology.
+* David Brevet, Takfarinas Saber, Goetz Botterweck and Anthony Ventresque. 2016. “[Preliminary Study of Multi-objective Features Selection for Evolving Software Product Lines](https://link.springer.com/chapter/10.1007/978-3-319-47106-8_23)”. International Symposium on Search Based Software Engineering 274–280. 
 
 
 ## Content
