@@ -40,12 +40,11 @@ This project contains the material described and used in the paper:
 
 ## Contributors
 
-**Takfarinas Saber:** 
-Lero@UCD, School of Computer Science, University College Dublin, Dublin 4, Ireland
-*takfarinas.saber@ucdconnect.ie*
+**Takfarinas Saber:** Lero@UCD, School of Computer Science, University College Dublin, Dublin 4, Ireland
+*takfarinas.saber@ucd.ie*
 
-**David Brevet:** Institut Supérieur d’Informatique, de Modelisation et de leurs Applications, Clermont-Ferrand, France
-*david.brevet@isima.fr*
+**David Brevet:**  Laboratoire d’Informatique, de Modélisation et d’Optimisation des Systèmes, Clermont-Ferrand, France
+*david.brevet@uca.fr*
 
 **Goetz Botterweck:** Lero@UL, University of Limerick, Ireland 
 *goetz.botterweck@lero.ie*
